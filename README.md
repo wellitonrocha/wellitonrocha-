@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Welliton da Rocha</h1>
 
 <p align="center">
-  <b>Analista de Dados | SQL | <span translate="no">Python</span> | Power BI</b>
+  <b>Analista de Dados | SQL | Python | Power BI</b><br>
   Em transição e desenvolvimento de carreira na área de Dados
 </p>
 
@@ -36,7 +36,6 @@ Estou construindo meus primeiros projetos práticos utilizando **Excel, SQL, Pow
 
 ## 📊 Projetos em Destaque
 
-
 - **Projeto 1:** *Em breve*
 - **Projeto 2:** *Em breve*
 - **Projeto 3:** *Em breve*
@@ -47,7 +46,7 @@ Estou construindo meus primeiros projetos práticos utilizando **Excel, SQL, Pow
 
 - Python para Análise e Ciência de Dados  
 - SQL para análise (joins, CTEs, window functions)  
-- Estatística para dados  
+- Estatística básica para dados  
 - Criação de dashboards profissionais  
 - Boas práticas de Git/GitHub
 
@@ -65,7 +64,7 @@ Estou construindo meus primeiros projetos práticos utilizando **Excel, SQL, Pow
 ## 📬 Como me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/wellitonrocha/">
+  <a href="https://www.linkedin.com/in/welliton-rocha-data-analytics">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
