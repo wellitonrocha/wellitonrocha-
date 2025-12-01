@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Welliton da Rocha</h1>
 
 <p align="center">
-  <b>Analista de Dados | SQL | Python | Power BI</b><br>
+  <b>Analista de Dados | SQL | Pyth&#8203;on | Power BI</b><br>
   Em transição e desenvolvimento de carreira na área de Dados
 </p>
 
