@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Welliton da Rocha</h1>
 
 <p align="center">
-  <b>Analista de Dados | SQL | Python | Power BI</b><br>
+  <b>Analista de Dados | SQL | <span translate="no">Python</span> | Power BI</b>
   Em transição e desenvolvimento de carreira na área de Dados
 </p>
 
@@ -36,8 +36,6 @@ Estou construindo meus primeiros projetos práticos utilizando **Excel, SQL, Pow
 
 ## 📊 Projetos em Destaque
 
-(Adicionarei os links conforme você postar seus projetos.  
-Assim que você me disser qual será o primeiro projeto, eu já deixo essa seção pronta.)
 
 - **Projeto 1:** *Em breve*
 - **Projeto 2:** *Em breve*
